@@ -283,7 +283,7 @@ if (profileCard) {
 console.log('%c👋 Hello, Developer!', 'color: #6366f1; font-size: 20px; font-weight: bold;');
 console.log('%c🚀 Built with HTML, CSS & JavaScript', 'color: #8b5cf6; font-size: 14px;');
 console.log('%c💼 Portfolio by Adil Muhammed', 'color: #ec4899; font-size: 14px;');
-console.log('%c📧 Get in touch: adilm@example.com', 'color: #10b981; font-size: 14px;');
+console.log('%c📧 Get in touch: adilmuhammed47000@gmail.com', 'color: #10b981; font-size: 14px;');
 
 // Preloader (optional)
 window.addEventListener('load', () => {
